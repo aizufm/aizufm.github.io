@@ -7,9 +7,9 @@ actors:
     image_url: /images/actors/bob.png
     name: bob
     url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
+author: nozo-moto
+description: Aizu FM description 
+description_long: Aizu FM long description
 email: info@example.com
 exclude:
   - docker
@@ -20,8 +20,8 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
-itunes_podcast_url:
+hashtag: aizufm
+itunes_podcast_url:aizufm.github.io/feed.xml
 keywords: comma,separated,keywords
 language: ja
 markdown: kramdown
@@ -29,5 +29,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
+title: Aizu FM
 url: http://example.com
