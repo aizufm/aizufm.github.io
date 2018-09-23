@@ -21,7 +21,7 @@ exclude:
   - vendor
 google_analytics:
 hashtag: aizufm
-itunes_podcast_url:aizufm.github.io/feed.xml
+itunes_podcast_url: aizufm.github.io/feed.xml
 keywords: comma,separated,keywords
 language: ja
 markdown: kramdown
